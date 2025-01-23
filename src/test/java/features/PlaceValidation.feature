@@ -13,6 +13,7 @@ Feature: Validating Place APIs
       | name | language | address            |
       | Aa   | English  | World cross center |
       | bb   | German   | Tata Tata center   |
+      | CC   | German   | Bata Bata center   |
 
   @DeletePlace @Regression
   Scenario: Verify if Delete Place functionality is working
