@@ -47,7 +47,3 @@ Or use your IDE to run `TestRunner.java`.
 
 - Author: *Sheethal Holenarasipura Maheswara*
 - License: MIT
-
----
-
-Happy Testing!
