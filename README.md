@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # RestAssured_API_Framework
-RestAssured_API_Framework
-=======
-# E2E API Testing Framework
 
 This is a Java-based End-to-End (E2E) API testing framework designed using Cucumber, Maven, and REST-assured. It supports BDD-style feature files and uses a modular approach to build test data and perform validations.
 
@@ -52,4 +49,3 @@ Or use your IDE to run `TestRunner.java`.
 
 - Author: *Sheethal Holenarasipura Maheswara*
 - License: MIT
->>>>>>> master
