@@ -4,6 +4,7 @@ This is a Java-based End-to-End (E2E) API testing framework designed using Cucum
 
 ## 📁 Project Structure
 
+```
 E2E_API_Framework/
 ├── src/
 │   ├── main/java/org/e2e/api/         # Core API test classes
@@ -14,7 +15,7 @@ E2E_API_Framework/
 │       └── stepDefinitions/           # Step definition classes
 ├── pom.xml                            # Maven configuration file
 ├── logging.txt                        # Log file
-└── .gitignore                         # Git ignore rules
+└── .gitignore                         # Git ignore rules ```
 
 ## 🚀 Getting Started
 
